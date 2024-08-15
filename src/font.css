@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'TheJamsil-Medium';
+  src: url('./assets/fonts/The\ Jamsil\ 4\ Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'TheJamsil-Bold';
+  src: url('./assets/fonts/The\ Jamsil\ 5\ Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'TheJamsil-ExtraBold';
+  src: url('./assets/fonts/The\ Jamsil\ 6\ ExtraBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'JalnanGothic';
+  src: url('./assets/fonts/JalnanGothic.otf') format('opentype');
+}
