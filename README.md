@@ -3,9 +3,14 @@
 > 수강중 진행한 프로젝트 #2
 <br>
 
-### 시연영상
+<img src="https://github.com/user-attachments/assets/81267ceb-8b4a-44f8-865f-8150e4bda45f">
+<br>
 
-<a href="#"><img src="https://github.com/user-attachments/assets/81267ceb-8b4a-44f8-865f-8150e4bda45f"></a>
+### 시연 영상
+
+1. [Customer Service](https://youtu.be/LfMOa0B2ZWQ)
+2. [Business Service](https://youtu.be/-W8icGMYjyM)
+---
 <br>
 
 ## 목차
